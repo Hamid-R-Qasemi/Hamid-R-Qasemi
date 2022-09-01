@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Hamid-R-Qasemi
--  I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+-  I’m Mid-Level Front-End Developer
+- 🌱 3 Years of self-taught, Expert in HTML5 and CSS3, Fluent in JS, and about 2 years of experience in ReactJS
+- 💻 Love coding and eager to learn
 - 📫 How to reach me: hamid.r.qasemi@gmail.com
 
 <!---
